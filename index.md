@@ -8,4 +8,4 @@
 
 Your data is your data!.
  
-**MQS* do not and will not and have never collected your personal or sensitive data**
+**MQS do not and will not and have never collected your personal or sensitive data**
